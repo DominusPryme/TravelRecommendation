@@ -51,7 +51,7 @@ nav ul li a {
 header {
     text-align: center;
     padding: 4em 0;
-    background: url('background.jpg') no-repeat center center/cover;
+    background: url('images/background.jpg') no-repeat center center/cover; /* Ensure the path is correct */
     position: relative;
     color: #fff;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
