@@ -52,10 +52,16 @@ header {
     text-align: center;
     padding: 4em 0;
     background: url('background.jpg') no-repeat center center/cover;
+    position: relative;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 header h1 {
-    color: #fff;
+    background-color: rgba(0, 0, 0, 0.5); /* Black background with 50% opacity */
+    display: inline-block;
+    padding: 0.5em 1em;
+    border-radius: 5px;
     font-size: 2.5em;
 }
 
