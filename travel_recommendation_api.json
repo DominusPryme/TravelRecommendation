@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Beach Paradise",
+        "description": "Beautiful sandy beaches with crystal clear water.",
+        "imageUrl": "beach.jpg"
+    },
+    {
+        "name": "Mountain Retreat",
+        "description": "Serene mountain scenery with fresh air.",
+        "imageUrl": "mountain.jpg"
+    },
+    {
+        "name": "Historic Temple",
+        "description": "Ancient temple with rich cultural heritage.",
+        "imageUrl": "temple.jpg"
+    },
+    {
+        "name": "City Escape",
+        "description": "Vibrant city life with endless attractions.",
+        "imageUrl": "city.jpg"
+    }
+]
